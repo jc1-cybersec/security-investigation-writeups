@@ -4,8 +4,6 @@ Practical blue team investigations by **Javier Criado**, based on retired Blue T
 
 These reports demonstrate my approach to analysing security evidence, correlating findings and documenting the limits of what the available data establishes. They are training projects, not professional incident-response engagements.
 
-> **Spoiler warning:** Contains spoilers and solutions for retired BTLO investigations. All three investigations were confirmed as retired in the BTLO platform.
-
 ## Investigations
 
 | Investigation | Focus | Report |
